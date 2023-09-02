@@ -13,3 +13,12 @@ The ebook also includes real-world examples that demonstrate how Python is used 
 "Learn Python Fast Deep Simple" is not just a passive reading experience; it's an interactive learning journey. The exercises are designed to encourage critical thinking, problem-solving, and creativity. You'll find yourself actively engaged in coding activities that foster a deep understanding of Python programming principles.
 
 Whether you're learning Python for the first time or seeking to refine your skills, "Learn Python Fast Deep Simple" is the ultimate resource to accelerate your learning and unleash your full potential as a Python programmer. Start your journey towards Python mastery today with this visually captivating, exercise-rich ebook that will guide you every step of the way. And remember, it's absolutely free!
+
+# Video-Course
+Thank you for reading this ebook! I'm excited to announce that there is an accompanying video course available that takes the learning experience far beyond what this ebook offers. The video course provides a comprehensive and immersive learning journey, offering a deeper understanding of the subject matter and delivering an even better learning experience.
+
+https://dejavucode.com/product/pure-python-accelerator-rapid-learning-for-quick-results/
+
+# License
+The PDF file in this repository is licensed under the CC BY 4.0 License.
+
