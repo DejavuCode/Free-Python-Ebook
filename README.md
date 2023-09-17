@@ -19,7 +19,7 @@ Thank you for reading this ebook! I'm excited to announce that there is an accom
 
 https://dejavucode.com/product/pure-python-accelerator-rapid-learning-for-quick-results/
 or you can use this link:
-bit.ly/3sTLUHJ
+https://bit.ly/3sTLUHJ
 
 
 
