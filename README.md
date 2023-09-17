@@ -1,4 +1,4 @@
-# Free-Python-Ebook
+![image](https://github.com/DejavuCode/Free-Python-Ebook/assets/143882227/292c4714-364c-4e08-a930-96fae3e0d0fb)# Free-Python-Ebook
 A Comprehensive Guide to Mastering Python Programming!" – a visually stunning ebook designed to help beginners and intermediate learners develop a strong foundation in Python programming. And the best part? It's completely free!
 
 # Description
@@ -18,6 +18,10 @@ Whether you're learning Python for the first time or seeking to refine your skil
 Thank you for reading this ebook! I'm excited to announce that there is an accompanying video course available that takes the learning experience far beyond what this ebook offers. The video course provides a comprehensive and immersive learning journey, offering a deeper understanding of the subject matter and delivering an even better learning experience.
 
 https://dejavucode.com/product/pure-python-accelerator-rapid-learning-for-quick-results/
+or you can use this link:
+bit.ly/3sTLUHJ
+
+
 
 # License
 The PDF file in this repository is licensed under the CC BY 4.0 License.
